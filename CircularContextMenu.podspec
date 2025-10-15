@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CircularContextMenu'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Customizable circular context menu for iOS'
   s.description      = <<-DESC
                        A customizable circular context menu library for iOS applications.
