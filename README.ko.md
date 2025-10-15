@@ -4,6 +4,14 @@ iOS 앱을 위한 커스터마이징 가능한 원형 컨텍스트 메뉴 라이
 
 [English](README.md) | 한국어
 
+## 스크린샷
+
+<p align="center">
+  <img src="Screenshots/screenshot1.png" width="250" alt="초기 화면">
+  <img src="Screenshots/screenshot2.png" width="250" alt="왼쪽 롱 프레스 메뉴">
+  <img src="Screenshots/screenshot3.png" width="250" alt="오른쪽 롱 프레스 메뉴">
+</p>
+
 ## 주요 기능
 
 - **원형 레이아웃**: 터치 포인트를 중심으로 원형 배치되는 메뉴 아이템
@@ -229,6 +237,18 @@ struct MyCustomMenuItem: CircularMenuItemProtocol {
 
 - **Model**: 데이터 모델 및 상수
   - `CircularMenuConstants`: 설정 상수
+
+## 예제
+
+CircularContextMenu의 다양한 기능을 보여주는 샘플 프로젝트를 확인하세요:
+
+**[CircularContextMenu-Example](https://github.com/songmoro/CircularContextMenuExample)**
+
+예제 프로젝트에는 다음이 포함되어 있습니다:
+- 컬렉션 뷰와 원형 메뉴 통합
+- 롱 프레스 및 탭 메뉴 데모
+- 다양한 커스터마이징 예제
+- 실제 사용 패턴
 
 ## 라이선스
 

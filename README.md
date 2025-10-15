@@ -4,6 +4,14 @@ A customizable circular context menu library for iOS applications. Provides an i
 
 English | [한국어](README.ko.md)
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/screenshot1.png" width="250" alt="Initial Screen">
+  <img src="Screenshots/screenshot2.png" width="250" alt="Leftside Long Press Menu">
+  <img src="Screenshots/screenshot3.png" width="250" alt="Rightside Long Press Menu">
+</p>
+
 ## Features
 
 - **Circular Layout**: Menu items are arranged in an arc around the touch point
@@ -233,7 +241,15 @@ The library is organized into the following components:
 
 ## Example
 
-Check out the Example directory for a complete sample application demonstrating various features of CircularContextMenu.
+For a complete sample application demonstrating various features of CircularContextMenu, check out the example repository:
+
+**[CircularContextMenu-Example](https://github.com/songmoro/CircularContextMenuExample)**
+
+The example project includes:
+- Collection view with circular menu integration
+- Both long-press and tap menu demonstrations
+- Various customization examples
+- Real-world usage patterns
 
 ## License
 
